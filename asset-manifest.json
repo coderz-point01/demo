@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coderz-point01/demo/static/css/main.8fa72e56.chunk.css",
+    "main.js": "/coderz-point01/demo/static/js/main.5d8fb9d6.chunk.js",
+    "main.js.map": "/coderz-point01/demo/static/js/main.5d8fb9d6.chunk.js.map",
+    "runtime-main.js": "/coderz-point01/demo/static/js/runtime-main.91bb3491.js",
+    "runtime-main.js.map": "/coderz-point01/demo/static/js/runtime-main.91bb3491.js.map",
+    "static/css/2.eb3008d8.chunk.css": "/coderz-point01/demo/static/css/2.eb3008d8.chunk.css",
+    "static/js/2.e7d52791.chunk.js": "/coderz-point01/demo/static/js/2.e7d52791.chunk.js",
+    "static/js/2.e7d52791.chunk.js.map": "/coderz-point01/demo/static/js/2.e7d52791.chunk.js.map",
+    "static/js/3.ab89c6ea.chunk.js": "/coderz-point01/demo/static/js/3.ab89c6ea.chunk.js",
+    "static/js/3.ab89c6ea.chunk.js.map": "/coderz-point01/demo/static/js/3.ab89c6ea.chunk.js.map",
+    "index.html": "/coderz-point01/demo/index.html",
+    "static/css/2.eb3008d8.chunk.css.map": "/coderz-point01/demo/static/css/2.eb3008d8.chunk.css.map",
+    "static/css/main.8fa72e56.chunk.css.map": "/coderz-point01/demo/static/css/main.8fa72e56.chunk.css.map",
+    "static/js/2.e7d52791.chunk.js.LICENSE.txt": "/coderz-point01/demo/static/js/2.e7d52791.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/coderz-point01/demo/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91bb3491.js",
+    "static/css/2.eb3008d8.chunk.css",
+    "static/js/2.e7d52791.chunk.js",
+    "static/css/main.8fa72e56.chunk.css",
+    "static/js/main.5d8fb9d6.chunk.js"
+  ]
+}
